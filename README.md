@@ -2,6 +2,22 @@
 
 My Production configurations for Vue CLI
 
+## Install
+
+Installing in an Already Created Project:
+
+```sh
+vue add @socheatsok78/vue-cli-plugin-configure
+```
+
+Manual install:
+
+```sh
+yarn add -D @socheatsok78/vue-cli-plugin-configure
+# then
+vue invoke @socheatsok78/vue-cli-plugin-configure
+```
+
 ## Config
 
 ### integrity
