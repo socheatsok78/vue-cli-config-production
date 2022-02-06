@@ -18,7 +18,9 @@ yarn add -D @socheatsok78/vue-cli-plugin-configure
 vue invoke @socheatsok78/vue-cli-plugin-configure
 ```
 
-## Config
+## What this does?
+
+The package will inject the following configuration to `vue.config.js`.
 
 ### integrity
 
